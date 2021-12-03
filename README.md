@@ -1,2 +1,2 @@
-# Andrica1TheFuckenProgrammer
+# First Github repo
 Cool programs
